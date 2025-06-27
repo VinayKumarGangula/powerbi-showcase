@@ -32,24 +32,6 @@ This repository contains a collection of interactive business dashboards built u
 
 ---
 
-## 🚀 How to Use
-
-1. Download the available `.pbix` files from this repository  
-2. Open them using **Power BI Desktop**
-3. Connect to your own data source or use the included sample data (if provided)
-4. Explore the dashboards and customize them for your own use case
-
----
-
-## 💡 Future Additions
-
-- `.pbix` files for each dashboard
-- Sample `.csv` or `.xlsx` data
-- Screenshots of dashboards
-- Links to related blog posts (if applicable)
-
----
-
 ## 📬 Contact
 
 If you have any questions or want to collaborate, feel free to connect:  
